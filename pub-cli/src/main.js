@@ -1,10 +1,10 @@
-var pubServices = require('pub-services');
+const pubServices = require('pub-services');
 
 function getListPub(){
-  jsonList = pubServices.services.pubService.fetchPubs() ;
-  console.log(jsonList[0].name);
+  const namesList = pubServices.services.pubService.fetchPubs() ;
+  console.log('nom des pubs',namesList);
 }
 
 module.exports = {
-  getListPub: getListPub
+  getListPub
 }

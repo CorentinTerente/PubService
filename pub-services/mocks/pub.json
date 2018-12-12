@@ -23,5 +23,55 @@
       "name": "Triple Karmeliet"
     }
   ]
+  },
+  {
+    "name": "Test1",
+    "owner": {
+    "firstName": "Nicolas",
+    "lastName": "Hodicq",
+    "mail": "nhodicq@bewizyu.com"
+  },
+  "openDays": [
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "openHours": {
+    "start": 10,
+    "end": 1
+  },
+  "beers": [
+    {
+      "type": "Blonde",
+      "name": "Triple Karmeliet"
+    }
+  ]
+  },
+  {
+    "name": "Test2",
+    "owner": {
+    "firstName": "Nicolas",
+    "lastName": "Hodicq",
+    "mail": "nhodicq@bewizyu.com"
+  },
+  "openDays": [
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "openHours": {
+    "start": 10,
+    "end": 1
+  },
+  "beers": [
+    {
+      "type": "Blonde",
+      "name": "Triple Karmeliet"
+    }
+  ]
   }
 ]
